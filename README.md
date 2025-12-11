@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **joshuaroy873@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1cr0WoqcXSp-XZytDx4b0I82KhufMpZcb/view?usp=drive_link](https://drive.google.com/file/d/1cr0WoqcXSp-XZytDx4b0I82KhufMpZcb)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1cr0WoqcXSp-XZytDx4b0I82KhufMpZcb](https://drive.google.com/file/d/1cr0WoqcXSp-XZytDx4b0I82KhufMpZcb)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
