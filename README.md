@@ -1,6 +1,6 @@
 # Hi 👋, I'm Joshua Roy Palathinkal
 
-### I'm an electrical engineer who codes for fun.
+### I'm an electrical engineer.
 
 - 📫 How to reach me **joshuaroy873@gmail.com**
 
