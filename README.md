@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://github.com/joshuaroy873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="joshuaroy873" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joshuaroy873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshuaroy873" height="30" width="40" /></a>
-<a href="https://youtube.com/joshuaroy873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joshuaroy873" height="30" width="40" /></a>
+<a href="https://youtube.com/@joshuaroy873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joshuaroy873" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/joshuaroy873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="joshuaroy873" height="30" width="40" /></a>
 <a href="https://leetcode.com/joshuaroy873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joshuaroy873" height="30" width="40" /></a>
 </p>
