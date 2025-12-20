@@ -1,7 +1,5 @@
 # Hi 👋, I'm Joshua Roy Palathinkal
 
-### I'm an electrical engineer.
-
 - 📫 How to reach me **joshuaroy873@gmail.com**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1cr0WoqcXSp-XZytDx4b0I82KhufMpZcb](https://drive.google.com/file/d/1cr0WoqcXSp-XZytDx4b0I82KhufMpZcb)**
