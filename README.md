@@ -1,8 +1,6 @@
-# Hi 👋, I'm Joshua Roy Palathinkal
+- 📫 How to reach me: **joshuaroy873@gmail.com**
 
-- 📫 How to reach me **joshuaroy873@gmail.com**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1cr0WoqcXSp-XZytDx4b0I82KhufMpZcb](https://drive.google.com/file/d/1cr0WoqcXSp-XZytDx4b0I82KhufMpZcb)**
+- 📄 Know about my experiences: **[Palathinkal_Resume_Full.pdf](https://drive.google.com/file/d/1cr0WoqcXSp-XZytDx4b0I82KhufMpZcb)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaroy873&layout=compact)
 
