@@ -4,9 +4,9 @@
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1cr0WoqcXSp-XZytDx4b0I82KhufMpZcb](https://drive.google.com/file/d/1cr0WoqcXSp-XZytDx4b0I82KhufMpZcb)**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaroy873&show_icons=true&bg_color=00000000)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaroy873&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaroy873&show_icons=true&bg_color=00000000)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
