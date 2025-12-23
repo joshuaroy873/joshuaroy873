@@ -3,7 +3,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaroy873&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaroy873&show_icons=true&bg_color=00000000)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaroy873&show_icons=true&bg_color=00000000) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
