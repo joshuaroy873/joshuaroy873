@@ -1,7 +1,7 @@
 - 📫 How to reach me: **joshuaroy873@gmail.com**
 - 📄 Know about my experiences: **[Palathinkal_Resume_Full.pdf](https://drive.google.com/file/d/1cr0WoqcXSp-XZytDx4b0I82KhufMpZcb)**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaroy873&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaroy873&layout=compact) -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaroy873&show_icons=true&bg_color=00000000) -->
 
